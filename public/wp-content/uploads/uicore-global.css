@@ -5060,11 +5060,11 @@ h1.entry-title {
 }
 @font-face {
   font-family: "uicore-icons";
-  src: url(https://bityrummy.in/wp-content/plugins/uicore-framework/assets/fonts/uicore-icons.woff?bc5uma)
+  src: url("/wp-content/plugins/uicore-framework/assets/fonts/themify.woff?bc5uma")
       format("woff"),
-    url(https://bityrummy.in/wp-content/plugins/uicore-framework/assets/fonts/uicore-icons.ttf?bc5uma)
+    url("/wp-content/plugins/uicore-framework/assets/fonts/themify.ttf?bc5uma")
       format("truetype"),
-    url("https://bityrummy.in/wp-content/plugins/uicore-framework/assets/fonts/uicore-icons.svg?bc5uma#uicore-icons")
+    url("/wp-content/plugins/uicore-framework/assets/fonts/uicore-icons.svg?bc5uma#uicore-icons")
       format("svg");
   font-weight: 400;
   font-style: normal;

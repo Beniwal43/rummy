@@ -364,7 +364,7 @@ const about = () => {
                           <div className="elementor-widget-container">
                             <div
                               className="bdt-ep-advanced-icon-box"
-                              onclick="window.open('https://rummy.jayaganesha.online/jayaganesha.apk', '_self')"
+                              // onclick="window.open('https://rummy.jayaganesha.online/jayaganesha.apk', '_self')"
                             >
                               <div className="bdt-ep-advanced-icon-box-icon">
                                 <span className="bdt-ep-advanced-icon-box-icon-wrap">
@@ -495,10 +495,7 @@ const about = () => {
                                   data-widget_type="icon-list.default"
                                 >
                                   <div className="elementor-widget-container">
-                                    <link
-                                      rel="stylesheet"
-                                      href="https://bityrummy.in/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
-                                    />
+                                   
                                     <ul className="elementor-icon-list-items">
                                       <li className="elementor-icon-list-item">
                                         <a href="https://rummy.jayaganesha.online/privacy-policy/">

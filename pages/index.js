@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
 /* eslint-disable @next/next/no-img-element */
 export default function Home() {
- 
   return (
     <main className="home page-template-default page page-id-42 wp-embed-responsive ui-a-dsmm-slide  uicore-menu-focus elementor-default elementor-kit-6 elementor-page elementor-page-42">
       {/* 1.1 uicore_before_body_content */}
@@ -44,10 +43,7 @@ export default function Home() {
                   <div className="uicore-menu-container uicore-nav">
                     <ul className="uicore-menu">
                       <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-42 current_page_item menu-item-209">
-                        <a
-                          href="/"
-                          aria-current="page"
-                        >
+                        <a href="/" aria-current="page">
                           <span className="ui-menu-item-wrapper">Home</span>
                         </a>
                       </li>
@@ -218,10 +214,10 @@ export default function Home() {
                                   decoding="async"
                                   width={887}
                                   height={633}
-                                  src="https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1.png"
+                                  src="/wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1.png"
                                   className="attachment-full size-full wp-image-47"
                                   alt=""
-                                  srcSet="https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1.png 887w, https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1-300x214.png 300w, https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1-768x548.png 768w, https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1-650x464.png 650w"
+                                  srcSet="/wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1.png 887w, /wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1-300x214.png 300w, /wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1-768x548.png 768w, /wp-content/uploads/2023/11/Screenshot_2023-11-07_163311-removebg-preview-1-650x464.png 650w"
                                   sizes="(max-width: 887px) 100vw, 887px"
                                 />{" "}
                               </div>
@@ -435,10 +431,10 @@ export default function Home() {
                                   decoding="async"
                                   width={679}
                                   height={827}
-                                  src="https://bityrummy.in/wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1.png"
+                                  src="/wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1.png"
                                   className="attachment-full size-full wp-image-59"
                                   alt=""
-                                  srcSet="https://bityrummy.in/wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1.png 679w, https://bityrummy.in/wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1-246x300.png 246w, https://bityrummy.in/wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1-534x650.png 534w"
+                                  srcSet="/wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1.png 679w, /wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1-246x300.png 246w, /wp-content/uploads/2023/11/Screenshot-2023-11-07-164100-1-534x650.png 534w"
                                   sizes="(max-width: 679px) 100vw, 679px"
                                 />{" "}
                               </div>
@@ -938,10 +934,10 @@ export default function Home() {
                                   decoding="async"
                                   width={601}
                                   height={415}
-                                  src="https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_164608__1_-removebg-preview.png"
+                                  src="/wp-content/uploads/2023/11/Screenshot_2023-11-07_164608__1_-removebg-preview.png"
                                   className="attachment-full size-full wp-image-86"
                                   alt=""
-                                  srcSet="https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_164608__1_-removebg-preview.png 601w, https://bityrummy.in/wp-content/uploads/2023/11/Screenshot_2023-11-07_164608__1_-removebg-preview-300x207.png 300w"
+                                  srcSet="/wp-content/uploads/2023/11/Screenshot_2023-11-07_164608__1_-removebg-preview.png 601w, /wp-content/uploads/2023/11/Screenshot_2023-11-07_164608__1_-removebg-preview-300x207.png 300w"
                                   sizes="(max-width: 601px) 100vw, 601px"
                                 />{" "}
                               </div>
@@ -1366,10 +1362,6 @@ export default function Home() {
                                 data-widget_type="icon-list.default"
                               >
                                 <div className="elementor-widget-container">
-                                  <link
-                                    rel="stylesheet"
-                                    href="https://bityrummy.in/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
-                                  />
                                   <ul className="elementor-icon-list-items">
                                     <li className="elementor-icon-list-item">
                                       <a href="https://rummy.jayaganesha.online/privacy-policy?t=1">
@@ -1558,10 +1550,7 @@ export default function Home() {
             <div className="uicore-menu-container uicore-nav">
               <ul className="uicore-menu">
                 <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-42 current_page_item menu-item-209">
-                  <a
-                    href="/"
-                    aria-current="page"
-                  >
+                  <a href="/" aria-current="page">
                     <span className="ui-menu-item-wrapper">Home</span>
                   </a>
                 </li>
@@ -1614,7 +1603,6 @@ export default function Home() {
       {/* <!-- 1.7 uicore_after_body_content --> */}
       <div className="ui-staging">This is a staging enviroment</div>
       <div className="ui-cursor ui-cursor-main"></div>
-     
     </main>
   );
 }
